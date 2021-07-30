@@ -1,6 +1,5 @@
 #!/bin/bash                                                                     
 
-
 # Uses grep to merely highlight the search string from the input stream rather
 # than isolate it.  Great for use with scontrol show job
 
